@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paired-associate-learning/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/paired-associate-learning/static/js/main.466d7db9.chunk.js",
+    "main.js.map": "/paired-associate-learning/static/js/main.466d7db9.chunk.js.map",
+    "runtime-main.js": "/paired-associate-learning/static/js/runtime-main.d82885a1.js",
+    "runtime-main.js.map": "/paired-associate-learning/static/js/runtime-main.d82885a1.js.map",
+    "static/js/2.a9b56a7a.chunk.js": "/paired-associate-learning/static/js/2.a9b56a7a.chunk.js",
+    "static/js/2.a9b56a7a.chunk.js.map": "/paired-associate-learning/static/js/2.a9b56a7a.chunk.js.map",
+    "static/js/3.0a4a477e.chunk.js": "/paired-associate-learning/static/js/3.0a4a477e.chunk.js",
+    "static/js/3.0a4a477e.chunk.js.map": "/paired-associate-learning/static/js/3.0a4a477e.chunk.js.map",
+    "index.html": "/paired-associate-learning/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/paired-associate-learning/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.a9b56a7a.chunk.js.LICENSE.txt": "/paired-associate-learning/static/js/2.a9b56a7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d82885a1.js",
+    "static/js/2.a9b56a7a.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.466d7db9.chunk.js"
+  ]
+}
